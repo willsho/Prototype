@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.ball.org" version="1.0.0">
+    <ui-application appid="com.ball.org" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>ball</label>
+        <icon>ball.png</icon>
+    </ui-application>
+</manifest>
